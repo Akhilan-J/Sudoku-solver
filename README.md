@@ -1,6 +1,6 @@
 # Sudoku-solver
 This project is a Sudoku solver and generator implemented in Python. The program can solve any given Sudoku puzzle using a backtracking algorithm and generate new Sudoku puzzles with varying levels of difficulty.
-Code Overview
+#Code Overview
 display(bo): Function to print the Sudoku board.
 find(bo): Function to find the next empty cell in the board.
 valid(bo, value, pos): Function to check if placing a value in a specific position is valid.
