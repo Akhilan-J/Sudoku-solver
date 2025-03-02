@@ -16,4 +16,6 @@ fill_board(bo): Function to fill the board completely with a valid Sudoku soluti
 
 remove_elements(bo, attempts): Function to remove a specified number of elements from the filled board to create a puzzle.
 
-generate_sudoku(): Function to generate a new Sudoku puzzle.
+generate_sudoku(): Function to generate a new Sudoku puzzle
+
+Run the Sudoku_game to Play the game Have FUN!!!!!
